@@ -3,3 +3,4 @@ Hello GitHub
 I resolved the conflict 
 
 Created Branch!
+edited again in master branch
